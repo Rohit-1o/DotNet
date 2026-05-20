@@ -1,0 +1,11 @@
+C:\Rohit\.NET\CSharpDemo\CMathLib\bin\Debug\net8.0\CMathLib.deps.json
+C:\Rohit\.NET\CSharpDemo\CMathLib\bin\Debug\net8.0\CMathLib.dll
+C:\Rohit\.NET\CSharpDemo\CMathLib\bin\Debug\net8.0\CMathLib.pdb
+C:\Rohit\.NET\CSharpDemo\CMathLib\obj\Debug\net8.0\CMathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rohit\.NET\CSharpDemo\CMathLib\obj\Debug\net8.0\CMathLib.AssemblyInfoInputs.cache
+C:\Rohit\.NET\CSharpDemo\CMathLib\obj\Debug\net8.0\CMathLib.AssemblyInfo.cs
+C:\Rohit\.NET\CSharpDemo\CMathLib\obj\Debug\net8.0\CMathLib.csproj.CoreCompileInputs.cache
+C:\Rohit\.NET\CSharpDemo\CMathLib\obj\Debug\net8.0\CMathLib.dll
+C:\Rohit\.NET\CSharpDemo\CMathLib\obj\Debug\net8.0\refint\CMathLib.dll
+C:\Rohit\.NET\CSharpDemo\CMathLib\obj\Debug\net8.0\CMathLib.pdb
+C:\Rohit\.NET\CSharpDemo\CMathLib\obj\Debug\net8.0\ref\CMathLib.dll

@@ -1,0 +1,14 @@
+C:\Rohit\.NET\CSharpDemo\Demo_Match_Event_Delegates\bin\Debug\net8.0\Demo_Match_Event_Delegates.exe
+C:\Rohit\.NET\CSharpDemo\Demo_Match_Event_Delegates\bin\Debug\net8.0\Demo_Match_Event_Delegates.deps.json
+C:\Rohit\.NET\CSharpDemo\Demo_Match_Event_Delegates\bin\Debug\net8.0\Demo_Match_Event_Delegates.runtimeconfig.json
+C:\Rohit\.NET\CSharpDemo\Demo_Match_Event_Delegates\bin\Debug\net8.0\Demo_Match_Event_Delegates.dll
+C:\Rohit\.NET\CSharpDemo\Demo_Match_Event_Delegates\bin\Debug\net8.0\Demo_Match_Event_Delegates.pdb
+C:\Rohit\.NET\CSharpDemo\Demo_Match_Event_Delegates\obj\Debug\net8.0\Demo_Match_Event_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rohit\.NET\CSharpDemo\Demo_Match_Event_Delegates\obj\Debug\net8.0\Demo_Match_Event_Delegates.AssemblyInfoInputs.cache
+C:\Rohit\.NET\CSharpDemo\Demo_Match_Event_Delegates\obj\Debug\net8.0\Demo_Match_Event_Delegates.AssemblyInfo.cs
+C:\Rohit\.NET\CSharpDemo\Demo_Match_Event_Delegates\obj\Debug\net8.0\Demo_Match_Event_Delegates.csproj.CoreCompileInputs.cache
+C:\Rohit\.NET\CSharpDemo\Demo_Match_Event_Delegates\obj\Debug\net8.0\Demo_Match_Event_Delegates.dll
+C:\Rohit\.NET\CSharpDemo\Demo_Match_Event_Delegates\obj\Debug\net8.0\refint\Demo_Match_Event_Delegates.dll
+C:\Rohit\.NET\CSharpDemo\Demo_Match_Event_Delegates\obj\Debug\net8.0\Demo_Match_Event_Delegates.pdb
+C:\Rohit\.NET\CSharpDemo\Demo_Match_Event_Delegates\obj\Debug\net8.0\Demo_Match_Event_Delegates.genruntimeconfig.cache
+C:\Rohit\.NET\CSharpDemo\Demo_Match_Event_Delegates\obj\Debug\net8.0\ref\Demo_Match_Event_Delegates.dll

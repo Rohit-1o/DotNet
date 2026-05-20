@@ -1,0 +1,14 @@
+C:\Rohit\.NET\CSharpDemo\19Demo_Events_Delegate\bin\Debug\net8.0\19Demo_Events_Delegate.exe
+C:\Rohit\.NET\CSharpDemo\19Demo_Events_Delegate\bin\Debug\net8.0\19Demo_Events_Delegate.deps.json
+C:\Rohit\.NET\CSharpDemo\19Demo_Events_Delegate\bin\Debug\net8.0\19Demo_Events_Delegate.runtimeconfig.json
+C:\Rohit\.NET\CSharpDemo\19Demo_Events_Delegate\bin\Debug\net8.0\19Demo_Events_Delegate.dll
+C:\Rohit\.NET\CSharpDemo\19Demo_Events_Delegate\bin\Debug\net8.0\19Demo_Events_Delegate.pdb
+C:\Rohit\.NET\CSharpDemo\19Demo_Events_Delegate\obj\Debug\net8.0\19Demo_Events_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rohit\.NET\CSharpDemo\19Demo_Events_Delegate\obj\Debug\net8.0\19Demo_Events_Delegate.AssemblyInfoInputs.cache
+C:\Rohit\.NET\CSharpDemo\19Demo_Events_Delegate\obj\Debug\net8.0\19Demo_Events_Delegate.AssemblyInfo.cs
+C:\Rohit\.NET\CSharpDemo\19Demo_Events_Delegate\obj\Debug\net8.0\19Demo_Events_Delegate.csproj.CoreCompileInputs.cache
+C:\Rohit\.NET\CSharpDemo\19Demo_Events_Delegate\obj\Debug\net8.0\19Demo_Events_Delegate.dll
+C:\Rohit\.NET\CSharpDemo\19Demo_Events_Delegate\obj\Debug\net8.0\refint\19Demo_Events_Delegate.dll
+C:\Rohit\.NET\CSharpDemo\19Demo_Events_Delegate\obj\Debug\net8.0\19Demo_Events_Delegate.pdb
+C:\Rohit\.NET\CSharpDemo\19Demo_Events_Delegate\obj\Debug\net8.0\19Demo_Events_Delegate.genruntimeconfig.cache
+C:\Rohit\.NET\CSharpDemo\19Demo_Events_Delegate\obj\Debug\net8.0\ref\19Demo_Events_Delegate.dll

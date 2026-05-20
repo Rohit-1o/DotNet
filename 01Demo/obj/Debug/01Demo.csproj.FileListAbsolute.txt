@@ -1,0 +1,7 @@
+C:\Rohit\.NET\CSharpDemo\01Demo\bin\Debug\01Demo.exe.config
+C:\Rohit\.NET\CSharpDemo\01Demo\bin\Debug\01Demo.exe
+C:\Rohit\.NET\CSharpDemo\01Demo\bin\Debug\01Demo.pdb
+C:\Rohit\.NET\CSharpDemo\01Demo\obj\Debug\01Demo.csproj.AssemblyReference.cache
+C:\Rohit\.NET\CSharpDemo\01Demo\obj\Debug\01Demo.csproj.CoreCompileInputs.cache
+C:\Rohit\.NET\CSharpDemo\01Demo\obj\Debug\01Demo.exe
+C:\Rohit\.NET\CSharpDemo\01Demo\obj\Debug\01Demo.pdb

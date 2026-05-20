@@ -1,0 +1,14 @@
+C:\Rohit\.NET\CSharpDemo\16Demo_OOP_Singleton\bin\Debug\net8.0\16Demo_OOP_Singleton.exe
+C:\Rohit\.NET\CSharpDemo\16Demo_OOP_Singleton\bin\Debug\net8.0\16Demo_OOP_Singleton.deps.json
+C:\Rohit\.NET\CSharpDemo\16Demo_OOP_Singleton\bin\Debug\net8.0\16Demo_OOP_Singleton.runtimeconfig.json
+C:\Rohit\.NET\CSharpDemo\16Demo_OOP_Singleton\bin\Debug\net8.0\16Demo_OOP_Singleton.dll
+C:\Rohit\.NET\CSharpDemo\16Demo_OOP_Singleton\bin\Debug\net8.0\16Demo_OOP_Singleton.pdb
+C:\Rohit\.NET\CSharpDemo\16Demo_OOP_Singleton\obj\Debug\net8.0\16Demo_OOP_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rohit\.NET\CSharpDemo\16Demo_OOP_Singleton\obj\Debug\net8.0\16Demo_OOP_Singleton.AssemblyInfoInputs.cache
+C:\Rohit\.NET\CSharpDemo\16Demo_OOP_Singleton\obj\Debug\net8.0\16Demo_OOP_Singleton.AssemblyInfo.cs
+C:\Rohit\.NET\CSharpDemo\16Demo_OOP_Singleton\obj\Debug\net8.0\16Demo_OOP_Singleton.csproj.CoreCompileInputs.cache
+C:\Rohit\.NET\CSharpDemo\16Demo_OOP_Singleton\obj\Debug\net8.0\16Demo_OOP_Singleton.dll
+C:\Rohit\.NET\CSharpDemo\16Demo_OOP_Singleton\obj\Debug\net8.0\refint\16Demo_OOP_Singleton.dll
+C:\Rohit\.NET\CSharpDemo\16Demo_OOP_Singleton\obj\Debug\net8.0\16Demo_OOP_Singleton.pdb
+C:\Rohit\.NET\CSharpDemo\16Demo_OOP_Singleton\obj\Debug\net8.0\16Demo_OOP_Singleton.genruntimeconfig.cache
+C:\Rohit\.NET\CSharpDemo\16Demo_OOP_Singleton\obj\Debug\net8.0\ref\16Demo_OOP_Singleton.dll

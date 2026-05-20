@@ -1,0 +1,14 @@
+C:\Rohit\.NET\CSharpDemo\06Demo\obj\Debug\net8.0\06Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rohit\.NET\CSharpDemo\06Demo\obj\Debug\net8.0\06Demo.AssemblyInfoInputs.cache
+C:\Rohit\.NET\CSharpDemo\06Demo\obj\Debug\net8.0\06Demo.AssemblyInfo.cs
+C:\Rohit\.NET\CSharpDemo\06Demo\obj\Debug\net8.0\06Demo.csproj.CoreCompileInputs.cache
+C:\Rohit\.NET\CSharpDemo\06Demo\bin\Debug\net8.0\06Demo.exe
+C:\Rohit\.NET\CSharpDemo\06Demo\bin\Debug\net8.0\06Demo.deps.json
+C:\Rohit\.NET\CSharpDemo\06Demo\bin\Debug\net8.0\06Demo.runtimeconfig.json
+C:\Rohit\.NET\CSharpDemo\06Demo\bin\Debug\net8.0\06Demo.dll
+C:\Rohit\.NET\CSharpDemo\06Demo\bin\Debug\net8.0\06Demo.pdb
+C:\Rohit\.NET\CSharpDemo\06Demo\obj\Debug\net8.0\06Demo.dll
+C:\Rohit\.NET\CSharpDemo\06Demo\obj\Debug\net8.0\refint\06Demo.dll
+C:\Rohit\.NET\CSharpDemo\06Demo\obj\Debug\net8.0\06Demo.pdb
+C:\Rohit\.NET\CSharpDemo\06Demo\obj\Debug\net8.0\06Demo.genruntimeconfig.cache
+C:\Rohit\.NET\CSharpDemo\06Demo\obj\Debug\net8.0\ref\06Demo.dll

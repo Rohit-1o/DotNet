@@ -1,0 +1,14 @@
+C:\Rohit\.NET\CSharpDemo\14Demo_OOP_Abstract\bin\Debug\net8.0\14Demo_OOP_Abstract.exe
+C:\Rohit\.NET\CSharpDemo\14Demo_OOP_Abstract\bin\Debug\net8.0\14Demo_OOP_Abstract.deps.json
+C:\Rohit\.NET\CSharpDemo\14Demo_OOP_Abstract\bin\Debug\net8.0\14Demo_OOP_Abstract.runtimeconfig.json
+C:\Rohit\.NET\CSharpDemo\14Demo_OOP_Abstract\bin\Debug\net8.0\14Demo_OOP_Abstract.dll
+C:\Rohit\.NET\CSharpDemo\14Demo_OOP_Abstract\bin\Debug\net8.0\14Demo_OOP_Abstract.pdb
+C:\Rohit\.NET\CSharpDemo\14Demo_OOP_Abstract\obj\Debug\net8.0\14Demo_OOP_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rohit\.NET\CSharpDemo\14Demo_OOP_Abstract\obj\Debug\net8.0\14Demo_OOP_Abstract.AssemblyInfoInputs.cache
+C:\Rohit\.NET\CSharpDemo\14Demo_OOP_Abstract\obj\Debug\net8.0\14Demo_OOP_Abstract.AssemblyInfo.cs
+C:\Rohit\.NET\CSharpDemo\14Demo_OOP_Abstract\obj\Debug\net8.0\14Demo_OOP_Abstract.csproj.CoreCompileInputs.cache
+C:\Rohit\.NET\CSharpDemo\14Demo_OOP_Abstract\obj\Debug\net8.0\14Demo_OOP_Abstract.dll
+C:\Rohit\.NET\CSharpDemo\14Demo_OOP_Abstract\obj\Debug\net8.0\refint\14Demo_OOP_Abstract.dll
+C:\Rohit\.NET\CSharpDemo\14Demo_OOP_Abstract\obj\Debug\net8.0\14Demo_OOP_Abstract.pdb
+C:\Rohit\.NET\CSharpDemo\14Demo_OOP_Abstract\obj\Debug\net8.0\14Demo_OOP_Abstract.genruntimeconfig.cache
+C:\Rohit\.NET\CSharpDemo\14Demo_OOP_Abstract\obj\Debug\net8.0\ref\14Demo_OOP_Abstract.dll

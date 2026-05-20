@@ -1,0 +1,14 @@
+C:\Rohit\.NET\CSharpDemo\20Demo_MulticastDelegate\bin\Debug\net8.0\20Demo_MulticastDelegate.exe
+C:\Rohit\.NET\CSharpDemo\20Demo_MulticastDelegate\bin\Debug\net8.0\20Demo_MulticastDelegate.deps.json
+C:\Rohit\.NET\CSharpDemo\20Demo_MulticastDelegate\bin\Debug\net8.0\20Demo_MulticastDelegate.runtimeconfig.json
+C:\Rohit\.NET\CSharpDemo\20Demo_MulticastDelegate\bin\Debug\net8.0\20Demo_MulticastDelegate.dll
+C:\Rohit\.NET\CSharpDemo\20Demo_MulticastDelegate\bin\Debug\net8.0\20Demo_MulticastDelegate.pdb
+C:\Rohit\.NET\CSharpDemo\20Demo_MulticastDelegate\obj\Debug\net8.0\20Demo_MulticastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rohit\.NET\CSharpDemo\20Demo_MulticastDelegate\obj\Debug\net8.0\20Demo_MulticastDelegate.AssemblyInfoInputs.cache
+C:\Rohit\.NET\CSharpDemo\20Demo_MulticastDelegate\obj\Debug\net8.0\20Demo_MulticastDelegate.AssemblyInfo.cs
+C:\Rohit\.NET\CSharpDemo\20Demo_MulticastDelegate\obj\Debug\net8.0\20Demo_MulticastDelegate.csproj.CoreCompileInputs.cache
+C:\Rohit\.NET\CSharpDemo\20Demo_MulticastDelegate\obj\Debug\net8.0\20Demo_MulticastDelegate.dll
+C:\Rohit\.NET\CSharpDemo\20Demo_MulticastDelegate\obj\Debug\net8.0\refint\20Demo_MulticastDelegate.dll
+C:\Rohit\.NET\CSharpDemo\20Demo_MulticastDelegate\obj\Debug\net8.0\20Demo_MulticastDelegate.pdb
+C:\Rohit\.NET\CSharpDemo\20Demo_MulticastDelegate\obj\Debug\net8.0\20Demo_MulticastDelegate.genruntimeconfig.cache
+C:\Rohit\.NET\CSharpDemo\20Demo_MulticastDelegate\obj\Debug\net8.0\ref\20Demo_MulticastDelegate.dll
