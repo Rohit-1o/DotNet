@@ -1,4 +1,5 @@
-﻿namespace _20Demo_MulticastDelegate
+
+namespace _20Demo_MulticastDelegate
 {
     internal class Program
     {
