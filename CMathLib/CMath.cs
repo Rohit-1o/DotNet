@@ -1,4 +1,3 @@
-﻿
 namespace CMathLib
 {
     public class CMath
