@@ -32,7 +32,6 @@ namespace _20Demo_MulticastDelegate
             fundel();
         }
     }
-
     
     public class AnnualEvent
     {
