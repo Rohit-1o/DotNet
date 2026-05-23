@@ -33,6 +33,7 @@ namespace _20Demo_MulticastDelegate
         }
     }
 
+
     
     public class AnnualEvent
     {
