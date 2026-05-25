@@ -2,6 +2,7 @@ namespace _20Demo_MulticastDelegate
 {
     internal class Program
     {
+        
         public delegate void AnnualFunDelegate();
         static void Main(string[] args)
         {
