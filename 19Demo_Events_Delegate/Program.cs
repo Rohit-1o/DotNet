@@ -1,6 +1,5 @@
 ﻿using System.Reflection;
 
-
 namespace _19Demo_Events_Delegate
 {
     public delegate void ResultHandler (int mark);
